@@ -1,0 +1,34 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Just practicing algorithms",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ciriarte/learning-algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "learning"
+  ],
+  "author": "ciriarte@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ciriarte/learning-algorithms/issues"
+  },
+  "homepage": "https://github.com/ciriarte/learning-algorithms",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "jasmine": "^2.2.1",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.5"
+  }
+}
